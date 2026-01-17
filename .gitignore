@@ -1,0 +1,5 @@
+*.pyc
+venv/
+Pulumi.prod.yaml
+Pulumi.yaml
+default_vars.py
